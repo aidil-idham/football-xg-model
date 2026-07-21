@@ -17,12 +17,21 @@ What I want to do:
 - Turn it into a small Streamlit app at the end
 
 Tools:
-Python, pandas, NumPy, SQLite, scikit-learn, XGBoost, SHAP, Matplotlib/seaborn, Streamlit. Data from StatsBomb open data.
+- Python
+- pandas
+- NumPy
+- SQLite
+- scikit-learn
+- XGBoost
+- SHAP
+- Matplotlib/seaborn
+- Streamlit
+- Data from StatsBomb open data.
 
 Structure:
-data/         the shots database (SQLite)
-notebooks/    one notebook per phase
-docs/         write-up for each phase
+- data/         the shots database (SQLite)
+- notebooks/    one notebook per phase
+- docs/         write-up for each phase
 
 Progress:
 -  Phase 0 — Setup (done)
