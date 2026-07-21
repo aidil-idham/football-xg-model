@@ -36,7 +36,7 @@ Structure:
 Progress:
 -  Phase 0 — Setup (done)
 -  Phase 1 — Get the data + store it in SQLite (notes) (done)
--  Phase 2 — Feature engineering (distance, angle, etc.)
+-  Phase 2 — Feature engineering (distance, angle, etc.) (done)
 -  Phase 3 — Build the model
 -  Phase 4 — Evaluate it
 -  Phase 5 — Cross-league test
