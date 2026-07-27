@@ -38,7 +38,7 @@ Progress:
 -  Phase 1 — Get the data + store it in SQLite (notes) (done)
 -  Phase 2 — Feature engineering (distance, angle, etc.) (done)
 -  Phase 3 — Build the model (done)
--  Phase 4 — Evaluate it
+-  Phase 4 — Evaluate it (done)
 -  Phase 5 — Cross-league test
 -  Phase 6 — Player analysis
 -  Phase 7 — Streamlit app
