@@ -24,7 +24,7 @@ Tools:
 - scikit-learn
 - XGBoost
 - SHAP
-- Matplotlib/seaborn
+- Matplotlib
 - Streamlit
 - Data from StatsBomb open data.
 
