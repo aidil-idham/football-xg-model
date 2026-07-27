@@ -41,7 +41,7 @@ Progress:
 -  Phase 4 — Evaluate it (done)
 -  Phase 5 — Cross-league test (done)
 -  Phase 6 — Player analysis (done)
--  Phase 7 — Streamlit app
+-  Phase 7 — Streamlit app (done)
 -  Phase 8 — Final cleanup
 
 Data:
